@@ -1,0 +1,9 @@
+{
+    "scriptName": "configTest01",
+    "hostname": "192.168.0.100:22",
+    "userid": "user",
+    "privatekeyfile": "myprivkey.ppk",
+    "waiterFilename": "/home/gxj/trigger.txt",
+    "waitTimeSecs": 2,
+    "waitCycles": 5
+}
